@@ -1,0 +1,12 @@
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\Utilitarios.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\Utilitarios.pdb
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\AccesoDatos.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\Core.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\AccesoDatos.pdb
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\AccesoDatos.dll.config
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\bin\Release\Core.pdb
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\obj\Release\Utilitarios.csproj.AssemblyReference.cache
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\obj\Release\Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\obj\Release\Utilitar.4ED79990.Up2Date
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\obj\Release\Utilitarios.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\Utilitarios\obj\Release\Utilitarios.pdb

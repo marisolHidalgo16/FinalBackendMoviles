@@ -1,0 +1,6 @@
+C:\Users\xport\OneDrive\Desktop\backend\Foro\DTO\bin\Release\DTO.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\DTO\bin\Release\DTO.pdb
+C:\Users\xport\OneDrive\Desktop\backend\Foro\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+C:\Users\xport\OneDrive\Desktop\backend\Foro\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\xport\OneDrive\Desktop\backend\Foro\DTO\obj\Release\DTO.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\DTO\obj\Release\DTO.pdb

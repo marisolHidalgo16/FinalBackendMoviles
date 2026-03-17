@@ -1,0 +1,7 @@
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\bin\Release\AccesoDatos.dll.config
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\obj\Release\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\xport\OneDrive\Desktop\backend\Foro\AccesoDatos\obj\Release\AccesoDatos.pdb
